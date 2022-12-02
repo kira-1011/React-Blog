@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "React is awesome!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum nihil, ab vel totam, a sit iure optio adipisci debitis aliquam est, velit suscipit commodi. Blanditiis et quo minima fuga repellendus.",
+      "author": "enat",
+      "id": 1
+    },
+    {
+      "title": "AI is awesome",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum nihil, ab vel totam, a sit iure optio adipisci debitis aliquam est, velit suscipit commodi. Blanditiis et quo minima fuga repellendus.",
+      "author": "kira",
+      "id": 2
+    },
+    {
+      "title": "Web dev tips and tricks",
+      "body": "Practice\nDo projects\nBe committed\nBe Organized",
+      "author": "Net ninja",
+      "id": 3
+    },
+    {
+      "title": "How to create a a blog",
+      "body": "click for more",
+      "author": "net ninja",
+      "id": 4
+    }
+  ]
+}
